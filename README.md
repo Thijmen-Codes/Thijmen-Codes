@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thijmen-Codes
-- 👀 I’m interested in 
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 📫 How to reach me dm me
 
